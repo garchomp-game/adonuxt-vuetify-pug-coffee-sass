@@ -3,7 +3,7 @@
 
 # AdoNuxt
 
-> [AdonisJS](http://adonisjs.com/) + [Nuxt.js](https://nuxtjs.org) + [PUG](https://pugjs.org](https://pugjs.org/) + [Sass](https://sass-lang.com/](https://sass-lang.com/) + [CoffeeScript](https://coffeescript.org/](https://coffeescript.org/) + [Vuetify](https://vuetifyjs.com/en/) = :fire: :fire: :fire:
+> [AdonisJS](http://adonisjs.com/) + [Nuxt.js](https://nuxtjs.org) + [PUG](https://pugjs.org) + [Sass](https://sass-lang.com/ + [CoffeeScript](https://coffeescript.org/) + [Vuetify](https://vuetifyjs.com/en/) = :fire: :fire: :fire:
 
 ## Usage
 
