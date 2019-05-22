@@ -1,3 +1,10 @@
 {
-  "name": "<name-for-your-project>"
+	"version": 2,
+	"name": "adonis-template",
+	"builds": [
+		{
+			"src": "package.json",
+			"use": "@now/static-build"
+		}
+	]
 }
